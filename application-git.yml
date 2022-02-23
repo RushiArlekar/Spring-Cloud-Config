@@ -1,5 +1,5 @@
 my:
-  greeting: Hello Im Git Config
+  greeting: Hello Im Git Repo
   list:
     values: one,two,three,four,five,six
 
