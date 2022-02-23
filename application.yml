@@ -1,5 +1,5 @@
 my:
-  greeting: Hello Im Git Repo
+  greeting: Hello Im GitHub Repo
   list:
     values: one,two,three,four,five,six
 
