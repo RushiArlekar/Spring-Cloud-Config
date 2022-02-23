@@ -1,0 +1,4 @@
+db:
+  connection: "{yml-connectionString:'https//___', username:'GitUser', password:'pass'}"
+  host: yml
+  address: 127.0.0.1
