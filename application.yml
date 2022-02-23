@@ -1,0 +1,9 @@
+my:
+  greeting: Hello Im Git Config
+  list:
+    values: one,two,three,four,five,six
+
+db:
+  connection: "{git-connectionString:'https//___', username:'Github', password:'pass'}"
+  host: localhost
+  address: 127.0.0.1
